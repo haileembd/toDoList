@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//just adding this for github
 class ToDo {
     var name = ""
     var important = false 
